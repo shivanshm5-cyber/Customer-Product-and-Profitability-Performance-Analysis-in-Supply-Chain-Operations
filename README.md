@@ -63,7 +63,3 @@ streamlit run app.py      # once the dashboard is built
 ## Tools Used
 Python, pandas, NumPy, Matplotlib, Streamlit
 
-## Contact
-Shivansh Mishra
-- GitHub: [add your GitHub profile link]
-- LinkedIn: [add your LinkedIn profile link]
