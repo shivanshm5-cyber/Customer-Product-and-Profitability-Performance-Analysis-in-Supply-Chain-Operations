@@ -82,7 +82,4 @@ python -m streamlit run app.py
 ## Tools Used
 Python, pandas, NumPy, Matplotlib, Streamlit
 
-## Contact
-Shivansh Mishra
-- GitHub: [your GitHub link]
-- LinkedIn: [your LinkedIn link]
+ 
